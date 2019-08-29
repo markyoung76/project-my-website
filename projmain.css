@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich&display=swap');
+
+body {
+    background: url(test_img_yc_bkgd_trans_45.png) no-repeat center fixed;
+    background-color: #9fd2fe; 
+    background-size: 1250px 1250px;
+}
+
+h1 {
+    color: #661ca4;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.button {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 10px 25px;
+    border-radius: 16px;
+    flex: 1;
+}
+
+.button0 { background: #ff6c00;} /* mid orange */
+.button1 { background: #ff6c00;} 
+.button2 { background: #ff6c00;}
+.button3 { background: #ff6c00;}
+.button4 { background: #ff6c00;}
+.button5 { background: #ff6c00;}
+
+.container {
+display: flex;
+justify-content: center;
+}
+
+h2 {
+    color: #5051ff;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 0px 40px 60px 40px;
+}
+
+h2 {
+    font-size: 40px; 
+}
+
+h3, h4 {
+    color: #099fff;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: left;
+    box-sizing: border-box;
+    padding: 5px 40px 5px 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 28px;
+}
+
+h5 {
+    color: #f8ae07;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    padding: 5px 40px 5px 40px;
+}
+
+h5 {
+    font-size: 26px;
+}
+
+h6 {
+    color: #ff6c00;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    box-sizing: border-box;
+    padding: 5px 40px 5px 40px;
+}
+
+h6 {
+    font-size: 20px;
+}
+
+h6 {
+    background-image: linear-gradient(to top, rgba(9, 159, 255, 0.2), rgba(9, 159, 255, 0.8));
+}
+
+p {
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    padding: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+p {
+    background-image: linear-gradient(to top, rgba(9, 159, 255, 0.2), rgba(9, 159, 255, 0.8));
+}
+
+ul {
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    padding: 40px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+ul {
+    background-image: linear-gradient(to top, rgba(9, 159, 255, 0.2), rgba(9, 159, 255, 0.8));
+}
