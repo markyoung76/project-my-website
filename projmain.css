@@ -125,3 +125,18 @@ ul {
 ul {
     background-image: linear-gradient(to top, rgba(9, 159, 255, 0.2), rgba(9, 159, 255, 0.8));
 }
+
+.button {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 10px 25px;
+    border-radius: 16px;
+    flex: 1;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.button6 { background: #ff6c00;} /* mid orange */
