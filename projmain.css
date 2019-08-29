@@ -25,6 +25,7 @@ h1 {
     padding: 10px 25px;
     border-radius: 16px;
     flex: 1;
+    text-decoration: none;
 }
 
 .button0 { background: #ff6c00;} /* mid orange */
