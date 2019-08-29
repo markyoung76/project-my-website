@@ -140,3 +140,16 @@ ul {
 }
 
 .button6 { background: #ff6c00;} /* mid orange */
+
+
+#project-my-website_homepage_in_google_chrome_browser, #project-my-website_homepage_in_firefox_browser {
+    width: 600px;
+}
+
+.containertwo {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 5px 40px 5px 40px;
+    justify-content: space-evenly;
+}
