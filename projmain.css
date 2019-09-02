@@ -153,3 +153,10 @@ ul {
     padding: 5px 40px 5px 40px;
     justify-content: space-evenly;
 }
+
+.audiocontrols {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
