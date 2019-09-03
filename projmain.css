@@ -160,3 +160,11 @@ ul {
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.cohort {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    opacity: 0.925;
+}
